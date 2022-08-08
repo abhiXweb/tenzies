@@ -8,15 +8,17 @@ body {
 }
 
 main {
-  width: 70%;
-  border: 30px solid black;
+  width: 650px;
+  border: 30px solid #0B2434;
   margin: 0 auto;
   margin-top: 50px;
   height: 550px;
+  background-color: #0B2434;
 }
 
-.main-in{
-  background-color: white;
+.main-in {
+  background-color: #F5F5F5;
   height: 100%;
   width: 100%;
+  border-radius: 10px;
 }
