@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Die from "./components/Die";
 function App() {
   const [dice, setDice] = useState(allNewDice());
