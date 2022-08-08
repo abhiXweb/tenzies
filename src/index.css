@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(151, 151, 126);
+}
+
+main {
+  width: 70%;
+  border: 30px solid black;
+  margin: 0 auto;
+  margin-top: 50px;
+  height: 550px;
+}
+
+.main-in{
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}
