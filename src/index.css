@@ -17,8 +17,9 @@ main {
   padding: 20px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  margin: 0 auto;
 }
 
 .dice-container {
@@ -46,10 +47,11 @@ main {
 .roll-dice-btn{
   background-color: blue;
   color: white;
-  margin-top: 30px;
   padding: 10px 30px;
   border: 1px solid blue;
   border-radius: 5px;
   text-transform: uppercase;
   letter-spacing: 1px;
+  cursor: pointer;
+  font-family: 'Karla', sans-serif;
 }
