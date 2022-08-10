@@ -3,7 +3,7 @@ const Die = (props) => {
         backgroundColor: (props.isHeld) ? "#59E391" : "#fff" 
     }
     return (
-        <div style={style} className="die-face">
+        <div onClick={props.hold} style={style} className="die-face">
             <h2 className="die-num">{props.value}</h2>
         </div>
     )
