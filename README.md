@@ -1,7 +1,3 @@
 ## Tenzies App using ReactJS
 
-To run this this app on your localhost run the following command:
-
-### `npm start`
-
-Details comming soon!
+To checkout Tenzies game click this [Link](https://tenzies-abhixweb.vercel.app/)
